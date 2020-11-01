@@ -1,0 +1,34 @@
+.title {
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+a:link {
+    text-decoration: none;
+    font-size: 25px;
+}
+a:hover {
+    text-decoration: underline;
+}
+.label {
+    text-transform: uppercase;
+    font-size: 25px;
+}
+img {
+    float: left;
+    padding: 25px;
+}
+div > ul {
+    color: red;
+    font-size: 25px;
+}
+div > p {
+    font-size: 25px;
+    padding: 10px;
+}
