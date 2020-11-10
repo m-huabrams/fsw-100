@@ -1,0 +1,93 @@
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: 10px;
+    background-color: rgb(55,44,22,.4);
+}
+.about {
+    position: relative;
+    left: 1300px;
+   
+}
+.menu {
+    position: relative;
+    left: 650px;
+}
+html {
+    background-color: gold;
+}
+h1 {
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;    
+}
+h2 {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+h3 {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+h4  {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+h5  {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+h6  {
+    margin-top: 100px;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+}
+.date {
+    text-align: center;
+    font-style: italic;
+}
+#smart-patrick {
+    width: 300px;
+    height: 350px;
+}
+#crybaby {
+    width: 300px;
+    height: 350px;
+}
+#squiddy {
+    width: 300px;
+    height: 350px;
+}
+#krabby {
+    width: 300px;
+    height: 350px;
+}
+#mad-roach {
+    width: 300px;
+    height: 350px;
+}
+#lovers {
+    width: 300px;
+    height: 350px;
+}
+.party > span {
+    text-align: center;
+    background: aqua;
+    display: inline-block;
+    border: 3px solid black;
+    border-style: inset;
+    padding: 15px;
+    margin: 15px;
+    max-width: 50%;
+    font-size: 40px;
+}
